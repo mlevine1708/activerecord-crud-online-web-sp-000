@@ -102,4 +102,4 @@
       Movie.create(title: "Movie_#{i}")
     end
     Movie.destroy_all
-  
+  end 
